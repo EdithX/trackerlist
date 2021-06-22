@@ -1,5 +1,7 @@
 udp://tracker.uw0.xyz:6969/announce
 
+https://telly.wtf/announce
+
 udp://tracker.kamigami.org:2710/announce
 
 http://tracker.files.fm:6969/announce
